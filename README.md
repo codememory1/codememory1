@@ -16,6 +16,9 @@
     <a href="https://github.com/codememory1" target="_blank">
       <img src="https://img.shields.io/badge/-GITHUB-inactive?style=for-the-badge&logo=github" target="_blank">
     </a>
+    <a href="https://packagist.org/profile/" target="_blank">
+      <img src="https://img.shields.io/badge/-PACKAGIST-orange?style=for-the-badge&logo=packagist&logoColor=white" target="_blank">
+    </a>
 <div>
 
 <div align="center">
